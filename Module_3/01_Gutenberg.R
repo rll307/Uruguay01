@@ -196,7 +196,7 @@ typeof(M1.l.v)
 not.blanks <- which(M1.l.v !="")
 
 # Deleting  the empty positions
-M1.l.v <- M1.l.v[not.blanks] 
+M1.l.v <- M1.l.v[not.blanks]
 
 #' 
 #' 
