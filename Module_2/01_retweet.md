@@ -128,9 +128,9 @@ LulaOficial %>% ts_plot("month", trim = 7L)
 LuisLacallePou %>% ts_plot("month", trim = 7L)
 ```
 
-![Lulas's tweets](images/Lula01.png)
+![Lulas's tweets](images/Lula02.png)
 
-![Lacalle's tweets](images/Lacalle01.png)
+![Lacalle's tweets](images/Localle02.png)
 
 `ts_plot()` is part of `rtweet`. It "borrows" some elements from `ggplot2` in order to plot frequency of tweets as time series. It is possible to make the visual representation a bit more sophisticated by providing multiple text-based filters to subset data. It is also possible to plot multiple time series.
 
